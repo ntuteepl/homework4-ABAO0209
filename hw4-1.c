@@ -14,6 +14,7 @@ int main()
 
     for(int j=0;j<size;j++)
     {
+        qqq=0;
         int temp=0,temp2=0,qqq=0;
         temp2=num[j]-1;
         for(int k=2;k<=temp2;k++)
